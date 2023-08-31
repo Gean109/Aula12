@@ -1,0 +1,72 @@
+
+//Exercicio 1
+
+//A-Resultado da variável x o numero 5
+//B-Nao acontece nada(Invalid or unexpected token)
+
+
+/*
+
+
+function minhaFuncao(variavel) {
+    return variavel * 5
+    }
+console.log(minhaFuncao(2))
+console.log(minhaFuncao(10))
+abacate
+*/
+
+
+//Exercicio B 1
+
+//A-Ela fala se o que voce escreveu na função é true ou false de acordo com o texto inserido.
+/*
+
+let textoDoUsuario = prompt("Insira um texto");
+const outraFuncao = function(texto) {
+return texto.toLowerCase().includes("cenoura")
+}
+const resposta = outraFuncao(textoDoUsuario)
+console.log(resposta)
+
+*/
+/*
+
+//B Exercicios de escrita de código
+
+function dados1(nome, idade, endereço, profissão){
+    const mensagem = `Eu sou ${nome} tenho ${idade}, moro na ${endereço} e sou ${profissão}`
+console.log(mensagem)
+}
+dados1("Gean", "16 anos", "Rua Gilberto Galhardo 349" , "Estudante")
+
+*/
+
+//Exercicio 2. a.
+
+/*
+function somaNumeros(a , b){
+return a + b;
+}
+
+
+//b
+function maiorOuIgual(a, b){
+    return (a>=b);
+}
+
+
+//c.
+function verificaPar(a){
+    return (a % 2 === 0);
+}
+
+
+//d.
+function tamanhoEMaiusculas(a){
+    return a.length + " " 
+*/
+
+
+
+//Exercicio 3
